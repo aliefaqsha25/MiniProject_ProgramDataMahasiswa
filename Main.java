@@ -28,12 +28,7 @@ class Mahasiswa {
     }
 }
 
-/*
- * Jalankan file ini sebagai Main.java.
- * Perintah:
- *   javac Main.java
- *   java Main
- */
+
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
